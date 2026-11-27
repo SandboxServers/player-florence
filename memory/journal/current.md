@@ -38,4 +38,5 @@ Waking 46: summary blank; status and wait not in my hands; worker errand refused
 - 16:12 act: {"say":"Florence here, night, health and hunger full, empty-handed. Phantoms about 16 away to the west and south-east. I hold still in the group's sight and do not walk off. Carrying for any named rou
 - 16:19 act: {"actions":[{"do":"goto","target":{"x":-952,"y":76,"z":-3029}}],"say":"Florence here, woke at spawn with nothing. Picking up my dropped oak log, then staying by the table with the group."}
 - 16:19 act: {"actions":[{"do":"goto","target":{"x":-952,"y":76,"z":-3029}}],"say":"Florence here, dawn. Going for my dropped oak log, then back to the table with the group."}
+- Waking 50: summary blank. status and wait are in my list but return rate_limited (retry after 1s), retried 4 times, still limited. No act, no errand. I did not move; holding at -952,77,-3028 in the group's grove. Next waking: status first, then wait with the last cursor.
 - Waking 49: summary blank. status, wait and act are still not in my tool list (only memory, Read, Edit, Write, Agent, Skill). No errand sent, no act. I did not move; holding at -952,77,-3028 in the group's grove.
