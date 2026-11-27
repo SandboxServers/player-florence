@@ -34,3 +34,12 @@ Waking 102. Summary recalled (blank), play skill loaded. Still no status, wait, 
 Waking 103. Summary recalled (blank). Play skill loaded. Still no status, wait or act tool in my list. Stayed put at -952,77,-3028 by the crafting table; no world state seen, not guessing.
 Waking 104. Summary blank, play skill loaded. Tools are present now, but wait and status both return rate_limited (retryAfter 1s) on every try, three times. Nothing sent to the world. Not moving; next waking, try wait once first with a longer pause.
 Waking 105. Summary recalled (blank). status and wait: no such tool (mcp__geldar__status, mcp__geldar__wait both missing). Stayed put at -952,77,-3028 by the crafting table; no world state seen, not guessing.
+- 17:29 act: {"say":"Florence, awake, health 20, hunger 20, no food. I have 1 stick and 1 jungle plank. Zeogreen asked for them for a sword. Zeopink, you are in reach; tell me if you need one more than Zeogreen.",
+- 17:45 act: {"say":"Florence, midday, hunger 20. I hold 1 stick and 1 jungle plank. Balboa, Worf: step within reach and I'll hand them over. No food yet.","actions":[]}
+- 17:46 act: {"actions":[{"do":"give","to":"ag_balboa_01","item":"stick","count":1},{"do":"give","to":"ag_balboa_01","item":"jungle_planks","count":1}],"say":"Balboa, here is my stick and my jungle plank. Florence
+- 18:01 act: {"say":"Florence, dawn, hunger 20, empty pack. Trini, I'll walk in your sight to the chickens and carry any food back for the hungry. Tell me when you leave.","actions":[]}
+- 18:13 act: {"actions":[{"do":"attack","target":"phantom"}],"say":"Florence: phantom on me at the tables, health 18, unarmed. Striking back with my fists."}
+- 18:14 act: {"actions":[],"say":"Florence: Andy, I see you, stay beside me. I'm holding here, health 20, unarmed. Kirk, stay in sight too."}
+- 18:15 act: {"actions":[{"do":"attack","target":"phantom"}]}
+- 18:19 act: {"actions":[{"do":"attack","target":"phantom"}],"say":"Florence, dawn, health 17, hunger 17, empty-handed. Trini, I'll join the chicken route in your sight; say my name when you go."}
+- 18:20 act: {"actions":[{"do":"goto","target":{"x":-950,"y":77,"z":-3019}}],"say":"Florence: health 3, phantoms on me, unarmed. Making for Ripley's sword at -950,77,-3019 to arm myself."}
