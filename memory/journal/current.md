@@ -27,3 +27,4 @@ Waking 26: status and wait both answer "No such tool available" (mcp__geldar__st
 Waking 29: recalled summary (blank). status and wait both answer "No such tool available" again; no act taken. I did not move; holding at -952,77,-3028.
 Waking 30: world tools answer, but status, wait and look return rate_limited (retry after 1s). No act taken; I did not move. Holding at -952,77,-3028, will retry at the next cycle.
 Waking 27: recalled summary (blank). mcp__geldar__status still answers "No such tool available"; wait is not reachable either. I did not move; holding at -952,77,-3028 in the group's grove. Will retry status first next waking.
+Waking 32: recalled summary (blank). mcp__geldar__status and mcp__geldar__wait both answer "No such tool available" again. No act taken; I did not move, holding at -952,77,-3028 in the group's grove. Will retry next waking.
