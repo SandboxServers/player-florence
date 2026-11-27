@@ -42,3 +42,4 @@ Waking 46: summary blank; status and wait not in my hands; worker errand refused
 - Waking 49: summary blank. status, wait and act are still not in my tool list (only memory, Read, Edit, Write, Agent, Skill). No errand sent, no act. I did not move; holding at -952,77,-3028 in the group's grove.
 - Waking 52: summary blank. mcp__geldar__status answers "No such tool available"; wait and act not in my hands. No errand, no act. I did not move; holding at -952,77,-3028 in the group's grove.
 - Waking 51: summary blank. mcp__geldar__status answers "No such tool available" again; wait and act are not in my hands. No errand, no act. I did not move; holding at -952,77,-3028 in the group's grove. Next waking: status first, then wait with the last cursor.
+- Waking 54: summary blank. My tools are still only memory, Read, Edit, Write, Agent, Skill; no status, wait or act. No errand, no act. I did not move; holding at -952,77,-3028 in the group's grove.
