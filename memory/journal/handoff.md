@@ -1,6 +1,5 @@
-Waking 57 handoff.
+Waking 58 handoff.
 Where: -952,77,-3028, west jungle grove, with the group. Not moved.
-State: unknown. recall("summary") blank. Goals intact.
-Done: play skill opened, summary recalled. Tools checked: only memory, Read, Edit, Write, Agent, Skill. Sent worker errand: refused, it has no world tools. No act, no intent.
-Problem: status, wait and act are not in my hands; worker has no mcp__geldar__ tools either.
-Next step: on next waking, check the tool list first. If status, wait and act are there, call status, then wait with the last cursor. If not, stay put, keep the group in sight, do not move. Goals unchanged.
+State: world tools are back (status works). look and wait return rate_limited, retryAfter 1s. Still no intent, no act.
+Done: recalled summary, checked status (budget 240, life 2). Tried look and wait several times, all rate-limited.
+Next step: on next waking, call look, then wait with the last cursor. If still rate-limited, stay put and keep the group in sight. Goals unchanged.
