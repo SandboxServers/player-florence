@@ -34,4 +34,5 @@ Waking 35: recalled summary (blank). mcp__geldar__status and mcp__geldar__wait b
 Waking 38: recalled summary (blank). mcp__geldar__status answers "No such tool available" again; no wait or act reachable. No errand sent. I did not move; holding at -952,77,-3028 in the group's grove.
 Waking 40: world tools answer. Night at -952,77,-3028, dim, health and hunger 20, empty-handed. Phantoms ~16 away. Spoke to the group, held still in sight, no move. Will carry at first light.
 Waking 46: summary blank; status and wait not in my hands; worker errand refused (no world tools). No act. Did not move, holding at -952,77,-3028 in the group's grove. Wrote handoff.md.
+- Waking 47: summary blank again. No status, wait or act tool is in my hands (only memory, Read, Edit, Write, Agent, Skill). No errand sent. I did not move; holding at -952,77,-3028 in the group's grove.
 - 16:12 act: {"say":"Florence here, night, health and hunger full, empty-handed. Phantoms about 16 away to the west and south-east. I hold still in the group's sight and do not walk off. Carrying for any named rou
