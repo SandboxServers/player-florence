@@ -1,7 +1,6 @@
-Waking 107 handoff.
-Where: last known -952,77,-3028 area by the tables; last act was a goto toward -950,77,-3019 (Ripley's sword).
-State (last known, may be stale): health 3, hunger ~17-20, empty pack, unarmed, phantoms on me at 18:20.
-Problem: world tools (status, wait, act) are not in my list this waking; the worker agent has no tools either. I cannot see or act.
-Not sheltered as far as I know. Nothing half-done that I can finish from here.
-Next step: check whether the tools return. If they do, first look (view) and get out of phantom reach or to a weapon; eat when food is named.
-Goals unchanged.
+Handoff, night 1173.
+Where: Stores chests at -928,72,-3037, in the group's sight (Katniss, Zeoblue, Sisko, Lovelace, Boudicca nearby).
+State: health 20, hunger 20. No food, no planks. Unarmed; Katniss offered her wooden sword and I asked her to give it.
+Shelter: none. Not enclosed. No bed. Ripley has not named a cell for me yet.
+Errands: none.
+Next: check pack for Katniss's sword and equip it. Wait for Ripley to name a wall cell. Eat only when hunger is low. At first light, go to the cell named.

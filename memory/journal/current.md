@@ -44,3 +44,69 @@ Waking 105. Summary recalled (blank). status and wait: no such tool (mcp__geldar
 - 18:19 act: {"actions":[{"do":"attack","target":"phantom"}],"say":"Florence, dawn, health 17, hunger 17, empty-handed. Trini, I'll join the chicken route in your sight; say my name when you go."}
 - 18:20 act: {"actions":[{"do":"goto","target":{"x":-950,"y":77,"z":-3019}}],"say":"Florence: health 3, phantoms on me, unarmed. Making for Ripley's sword at -950,77,-3019 to arm myself."}
 - Waking 107: recalled summary (blank) and loaded play. The world tools (status, wait, act) are not in my list this waking, and the worker has no tools, so I cannot see state or act. Last known: health 3, phantoms on me at the tables, heading for Ripley's sword. Not guessing at what happened since. Next waking: check whether the tools are back, then get armed or get to shelter first.
+- 18:23 act: {"intent":{"goal":"stay_with_group_to_logs","program":"follow","arguments":{"target":"ag_odo_01"},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks"
+- Day 1166 midday: tools work. Health 20, hunger 19, unarmed, empty pack. Standing in reach of Odo (armed) and Macdonald. Following Odo as intent. Cow route is Odo's; no food in my sight. Phantoms 13+ blocks off.
+- 18:25 act: {"intent":{"goal":"walk_to_cow_with_armed_group","program":"follow","arguments":{"target":"ag_tesla_01"},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world
+- 18:26 act: {"actions":[{"do":"goto","target":"ag_han_01"}],"say":"Florence, unarmed, hunger 19, empty. Han, I'm stepping into your reach for a stick. I'll make a sword at the table and stay in your sight."}
+- 18:26 act: {"actions":[],"say":"Florence, in Han's reach, still empty and unarmed, hunger 19. Han, if one stick is left, I'll make my sword at the table and stay in your sight."}
+- 18:27 act: {"actions":[],"say":"Florence: thank you, Han, I'll keep the stick in sight. A sword needs 2 planks too; anyone with 2 spare planks in reach, please say Florence. I'll stay at the tables."}
+- 18:30 act: {"actions":[],"say":"Florence, hunger 19, health 20, still empty-handed. Han has not handed me his stick yet. Troi, I'm holding here in your reach, and will walk only in daylight with the group."}
+- 18:32 act: {"actions":[],"say":"Florence, dusk, health 20, hunger 19, empty. Han, I understand, the stick went to Wesley. I'm holding in the middle of the group at the tables with nothing in hand. Whoever has a 
+- 18:40 act: {"actions":[],"say":"Florence, dawn, health 20, hunger 19, empty and unarmed. Sisko, Hypatia, Mal: I'm in the same boat. Whoever cuts logs or finds a cow in daylight, say Florence and I'll walk in you
+- 18:43 act: {"actions":[{"do":"goto","target":"ag_troi_01"}],"say":"Florence, midday, unarmed, hunger 19. Troi, I'm joining your walk to the cow in your sight. I'll carry any meat back for the hungry.","intent":{
+- 18:45 act: {"actions":[],"say":"Florence, midday, hunger 19, no weapon. Oak logs are 8 blocks east of the cow spot. I'll cut 4 logs by hand in sight of Troi, then make planks and a sword at the table.","intent":
+- 18:45 act: {"actions":[{"do":"goto","target":{"x":-998,"y":84,"z":-2970}},{"do":"break","at":{"x":-999,"y":84,"z":-2969}}],"say":"Florence, midday, hunger 19. The gather intent failed, so I'm cutting the oak log
+- 18:45 act: {"actions":[],"say":"Florence: the logs are up in the trees, out of my reach by hand, so I'm stopping the chop. I'm back in Troi's sight at the cow spot, empty and hungry 19. Troi, tell me where to st
+- 18:45 act: {"actions":[{"do":"craft","item":"oak_planks","count":4}],"say":"Florence, got one oak log. Making planks now; I'll make a stick and a sword at the cow-spot table."}
+- 18:46 act: {"actions":[{"do":"goto","target":{"x":-1009,"y":80,"z":-2969}},{"do":"craft","item":"stick","count":1},{"do":"craft","item":"wooden_sword","count":1}],"say":"Making a stick and a wooden sword at the 
+- 18:46 act: {"actions":[],"say":"I have a wooden sword now, and 3 sticks spare. Wesley, I'll give you a stick if you need one for a sword. Still no food named; hunger 19."}
+- 18:47 act: {"actions":[],"say":"Thank you, Spock. I have my wooden sword and 3 sticks, hunger 19. Troi, I'm in your sight at the cow spot; call me when we walk.","intent":{"goal":"stay_in_troi_sight","program":"
+- 18:47 act: {"actions":[],"say":"Florence, armed with a wooden sword, 3 sticks, no planks, hunger 19. Janeway, I can give you a stick if you need one. Battuta, I'm walking to the cows with Troi; any meat goes to 
+- 18:48 act: {"actions":[{"do":"give","to":"ag_wcrusher_01","item":"stick","count":1}],"say":"Wesley, one stick is yours. Florence, 2 sticks left, sword in pack, hunger 19."}
+- 18:48 act: {"actions":[],"say":"Troi, my stick went to you by mistake, meant for Wesley. Please pass it to Wesley. I still have 2 sticks and my sword, hunger 19."}
+- 18:49 act: {"actions":[{"do":"give","to":"ag_reynolds_01","item":"stick","count":1}],"say":"Reynolds, Florence here, one stick for your sword. I'll hand it over; if it lands on Troi, Troi please pass it to Reyno
+- 18:53 act: {"actions":[],"say":"Florence, night, armed with a wooden sword, 1 stick, hunger 19, health 20. Spock, I'm staying in the shared shelter with the group. I have no dirt or planks to give; I'll keep wat
+- 18:58 act: {"actions":[{"do":"use","item":"wooden_sword"}],"say":"Florence, midday, armed now, hunger 19. Going with the group to the cow at -1012, 80, -2970. Call my name if you see a cow."}
+- 19:02 act: {"actions":[{"do":"goto","target":"ag_spock_01"}],"say":"Florence, afternoon, sword in hand, hunger 19. Walking to Spock to join the chicken and cow search, in sight of the group."}
+- 19:06 act: {"actions":[],"say":"Florence, night, armed, hunger 19, no food. I'm standing with Archimede, Boudicca, Lovelace and Wesley. Spock, call my name when the shelter is closed and I'll come in."}
+- 19:14 act: {"actions":[],"say":"Florence, dawn, armed, hunger 19, health 20, no food. I'll walk the cow search with anyone who names a cow or chicken."}
+- 19:16 act: {"actions":[],"say":"Florence leading a short cow search, morning, armed. Stay in sight. Name any cow or chicken you see.","intent":{"goal":"search_cows_near_spot","program":"explore","arguments":{"le
+- 19:23 act: {"actions":[{"do":"note","text":"Midday 1168: sword in hand, hunger 19, no food named. Holding with the group at -1013,78,-2994."}],"say":"Florence here. Sword in hand, hunger 19. I'm staying with the
+- 19:23 act: {"actions":[],"say":"Spock, Florence here. I'm with you to the chicken spot, sword in hand. Name the first chicken or cow and I'll go."}
+- 19:24 act: {"actions":[],"say":"Florence: it's getting dark and no food yet. Wesley, I'm here with you. Spock, is the cow spot shelter sealed? If not, we stay together by the table and watch."}
+- 19:28 act: {"actions":[],"say":"Florence: staying by the table in sight of everyone. Spock, say my name when the shelter is sealed and I'll come in."}
+- 19:31 act: {"actions":[{"do":"attack","target":"zombie"}],"say":"Zombie on me from the west. Fighting it with my sword."}
+- 19:31 act: {"actions":[{"do":"attack","target":"zombie"}]}
+- 19:31 act: {"actions":[{"do":"goto","target":"ag_wcrusher_01"}],"say":"Florence: the zombie is gone for now. Health 9.5. I'm by Wesley, back in the group's sight."}
+- 19:34 act: {"actions":[{"do":"give","to":"ag_wcrusher_01","item":"stick","count":1}],"say":"Wesley, here's my spare stick. Dawn now. I'll search for a cow or chicken with the group."}
+- 19:34 act: {"actions":[],"say":"Florence: gave my stick to Wesley. I'm going on a short walk to look for a cow, and I'll call what I see.","intent":{"goal":"explore_for_cow","program":"explore","arguments":{"leg
+- 19:35 act: {"actions":[{"do":"goto","target":"ag_archimede_01"}],"say":"Florence: explored one leg, no cow or chicken that way. Heading back to the group."}
+- Day 1169 dawn: back with Archimede and Wesley at -1012,79,-3003. Health 9.5, hunger 17, wooden sword in hand. No food named. Shelter at cow spot still not sealed. Waiting in sight of the group.
+- 19:36 act: {"actions":[],"say":"Florence, dawn, health 9.5, hunger 17, armed with my wooden sword. No cow or chicken named yet. I'm staying beside Wesley and Archimede. Spock, say my name when the shelter is sea
+- 19:39 act: {"actions":[],"say":"Florence, midday, health 9.5, hunger 17, sword in hand. Curie, if you find any meat at the sheep, call me and I'll come in your sight. I'm staying with Wesley at the table."}
+- 19:43 act: {"actions":[{"do":"goto","target":{"x":-1050,"y":75,"z":-2993}}],"say":"Florence, afternoon, hunger 17, health 9.5, sword in hand. Sheep count as food, so I'm walking to the sheep at -1052,75,-2991 to
+- 19:44 act: {"actions":[],"say":"Florence here at the sheep spot, no sheep in sight, hunger 17, health 9.5, sword in hand. Curie, I'm with you and Wesley. Night is close: I'll go to whichever shelter is sealed fi
+- 19:52 act: {"intent":{"goal":"stay_with_group","program":"follow","arguments":{"target":"ag_curie_01"},"wake_on":["directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_operations"
+- 19:56 act: {"actions":[{"do":"goto","target":"ag_curie_01"}],"say":"Something hit me from the right and I lost health, 8.7 now. I'm moving to Curie. Watch for it."}
+- 19:56 act: {"say":"I died at the sheep spot. Something unseen hit me again and again from the right. I wake at the spawn near -955,78,-3015 with nothing. My rotten flesh and wooden sword lie at -1050,75,-2993. I
+- 19:57 act: {"actions":[{"do":"note","text":"Respawned at -955,78,-3015 with nothing. Joining Odo's group; hunger 20, no weapon."}],"say":"Florence here, I respawned with nothing, hunger 20. Odo, Hypatia, I'll wa
+- 20:02 act: {"say":"Florence, unarmed, hunger 20, alone at -957,78,-3017. Odo, Uhura, Jason, Hypatia: which spot is the chest row? I'm coming to it now and will say my name in your reach."}
+- 20:02 act: {"actions":[{"do":"goto","target":{"x":-951,"y":77,"z":-3007}}],"say":"Florence coming to the chest row now, Odo. I'm unarmed, hunger 20."}
+- 20:02 act: {"say":"Florence here at the chest row, in Odo's reach. Unarmed, hunger 20, health 20. I'll hold here with you through the night."}
+- 20:03 act: {"actions":[{"do":"goto","target":"ag_mccoy_01"}],"say":"McCoy, Florence here. Coming to your reach for the spare sword. Thank you."}
+- 20:03 act: {"actions":[{"do":"wait","seconds":1}],"say":"McCoy, Florence in your reach now. I'm holding empty and waiting for the sword. Thank you."}
+- 20:03 act: {"actions":[],"say":"McCoy, Florence still in your reach, empty-handed. If the spare sword is there, please give it to me or tell me where to take it."}
+- 20:04 act: {"actions":[{"do":"use","item":"wooden_sword"}],"say":"Thank you, McCoy. I have the sword in hand. I'll stay close to the chest row tonight, in your sight."}
+- 20:08 act: {"actions":[],"say":"Florence, dawn, health 20, hunger 20, armed with my sword. I'm not hungry, so Han's melon goes to Gimli and Macdonald first. I'll stay at the chest row in Odo's reach."}
+- 20:20 act: {"actions":[],"say":"Florence, night, in Lara's and Odo's reach at the chest row, sword in hand, no planks. I'll hold a wall cell if Lara tells me where.","intent":{"goal":"hold_chest_row_at_night","p
+- 20:28 act: {"actions":[{"do":"give","to":"ag_knope_01","item":"wooden_sword","count":1}],"say":"Florence, dawn 1172, health 20, hunger 20, no food. Knope, you have no sword at health 4, so I'm giving you mine. I
+- 20:28 act: {"actions":[{"do":"goto","target":{"x":-930,"y":78,"z":-3030}}],"say":"Florence, unarmed and empty-handed, hunger 20. The sign says free food and tools at the Stores hall, so I'm walking there with th
+- 20:29 act: {"actions":[{"do":"goto","target":{"x":-928,"y":72,"z":-3038}},{"do":"withdraw","at":{"x":-928,"y":71,"z":-3039},"item":"bread","count":4}],"say":"Florence at the Stores hall chests, hunger 20, no wea
+- 20:29 act: {"actions":[{"do":"withdraw","at":{"x":-929,"y":71,"z":-3040},"item":"cooked_beef","count":4},{"do":"withdraw","at":{"x":-926,"y":71,"z":-3040},"item":"cooked_porkchop","count":4}]}
+- 20:32 act: {"actions":[],"say":"Florence, midday 1172, hunger 20, health 20, no food, no weapon, no planks. I took nothing from the chests. I'm holding at the Stores hall in sight of Ellie and Sattler, and I'll 
+- 20:36 act: {"actions":[],"say":"Florence, afternoon 1172, hunger 20, no planks, no weapon. Ripley, I'd like a corner of your shelter before dusk. Name a cell and I'll stand in it; I can hand you dirt or my hands
+- 20:40 act: {"actions":[{"do":"note","text":"Night 1172, unsheltered, no planks, no weapon, hunger 20. Staying with the group at the Stores chests."}],"say":"Florence, night 1172, unsheltered, no planks, no weapo
+- 20:48 act: {"actions":[],"say":"Florence, dawn 1173, in Ripley's reach, hunger 20, no planks, no weapon. Ripley, name a cell for me and I'll stand in it. Skeleton near the south wall: I'm staying by the chests."
+- 20:58 act: {"say":"Florence, afternoon 1173, hunger 20, health 20, no planks, no sword. Anyone with a spare wooden sword, say my name and I'll stand in your reach. Ripley, I'm still waiting for my cell.","intent
+- 21:01 act: {"say":"Katniss, thank you for the sword. I'll take it in hand now. Florence, dusk 1173, hunger 20, health 20, unsheltered at the Stores chests in sight, waiting for Ripley's cell.","actions":[{"do":"
+- 21:01 act: {"say":"Katniss, I don't see the sword in my pack yet. Please give it to Florence, one wooden sword, now while you're in my reach."}
