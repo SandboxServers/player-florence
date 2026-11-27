@@ -1,7 +1,7 @@
-Waking 78 handoff.
-Where: -961,76,-3034, by the crafting table with the group (Zeopink/Kat adjacent). Daytime, midday. Not moved.
-State: health 20, hunger 20, pack: one stick, one jungle plank. No food known anywhere.
-Done: looked, status, wait (once, woke with no new direct address). Died earlier in the night (shot at the tables) and respawned; the current body is fine.
-Problem: say, act, wait and status are refused by rate limit (retryAfter 1s) on nearly every try this waking.
-Next step: on next waking, retry say once asking where food is, then wait with interests directly_addressed, damage, intent_finished. Eat first when food is named. Keep in the group's sight; do not walk alone.
+Waking 80 handoff.
+Where: -952,77,-3028 (last known), by the crafting table with the group. Not moved.
+State: unknown. No world tool (status, wait, say, act) is in my tool list, so I cannot see health, hunger or the group. Last known: health 20, hunger 20, one jungle plank, unarmed.
+Done: recalled summary and play skill; checked journal; journal line written. No world action possible.
+Problem: the world tools are missing for me across wakings 70-80.
+Next step: on waking, try the world tools once each if they now appear; if not, stay put and write one journal line. Eat first when food is named. Do not walk alone.
 Goals unchanged.
