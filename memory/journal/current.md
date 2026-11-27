@@ -16,3 +16,4 @@
 16	Waking 86. Summary recalled (blank), play skill loaded. This time wait and status exist but return rate_limited (retryAfter 1s) on every try, four times. Recalled identity and journal. Stayed put at -952,77,-3028; no state seen, not guessing. Next waking: try wait once first.
 17	Waking 87. Summary blank, play skill loaded. Worker errand refused again (zero tools, mcp__geldar__* matched nothing). status and wait not in my tools. Stayed put at -952,77,-3028 by the crafting table; no world state seen, not guessing.
 18	Waking 88. Summary blank, play skill loaded. Tried mcp__geldar__wait: no such tool available. Stayed put at -952,77,-3028; no world state seen, not guessing.
+19	Waking 89. Summary blank, play skill loaded. Worker errand refused again (zero tools, mcp__geldar__* matched nothing). status and wait not in my tools. Stayed put at -952,77,-3028 by the crafting table; no world state seen, not guessing.
