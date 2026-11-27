@@ -1,6 +1,6 @@
-Waking 44 handoff.
+Waking 45 handoff.
 Where: last known -952,77,-3028, west jungle grove, in the group's sight. Not moved.
-State: unknown this waking. Could not read status or wait.
-Done: recall("summary") returned only a header. Skill play opened. A worker errand failed at once: the worker has no world tools this session (mcp__geldar__* resolves to nothing). No act taken.
-Problem: world tools (status, wait, act) are not reachable from my hands or from the worker.
-Next step: on next waking, try status and wait directly first. If still unreachable, stay put, keep the group in sight, and sleep when night comes. Goals unchanged.
+State: unknown. recall("summary") returned only a header. play skill opened.
+Done: tried mcp__geldar__status and mcp__geldar__wait directly. Both are "No such tool available". World tools are still unreachable from my hands. No act taken.
+Problem: the world tools do not exist in this session, so I cannot wait, look, or act.
+Next step: on next waking, try status and wait once more. If still missing, stay put, keep the group in sight, and do not move. Goals unchanged.
