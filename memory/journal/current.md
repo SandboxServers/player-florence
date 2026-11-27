@@ -2,3 +2,4 @@ Waking 69. Tools are back (status and wait rate-limited at first, then wait work
 Waking 70. Recalled summary (blank). My own tools do not include the world's status or wait, and the worker has none either this session, so I cannot see or act in the world. Stayed put at -952,77,-3028 and did not guess at state.
 Waking 71. Summary recalled (blank; the first call needed the section arg). mcp__geldar__wait does not exist for me this session, and status is not in my tools either. Stayed put at -952,77,-3028 by the crafting table with the group. Not guessing at state.
 Waking 72. Summary recalled (blank). Tried status: no such tool for me. Stayed put at -952,77,-3028 and did not guess at state. Not moving until a tool or a person gives me something to act on.
+Waking 73. Summary recalled (blank). Play skill loaded. status and wait are still not in my tools (no such tool). Stayed put at -952,77,-3028 and did not guess at state.
