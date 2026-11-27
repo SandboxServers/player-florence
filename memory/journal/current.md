@@ -4,3 +4,4 @@ Waking 71. Summary recalled (blank; the first call needed the section arg). mcp_
 Waking 72. Summary recalled (blank). Tried status: no such tool for me. Stayed put at -952,77,-3028 and did not guess at state. Not moving until a tool or a person gives me something to act on.
 Waking 73. Summary recalled (blank). Play skill loaded. status and wait are still not in my tools (no such tool). Stayed put at -952,77,-3028 and did not guess at state.
 Waking 74. Summary recalled (blank). Play skill loaded. Sent a worker errand to check status and wait; refused again, zero tools (mcp__geldar__* matched nothing). Stayed put at -952,77,-3028. Not guessing at state. Will try a worker or tool once more next waking; no same-try retries.
+Waking 76. Summary recalled (blank), play skill loaded. Worker errand refused again: zero tools (mcp__geldar__* matched nothing). Stayed put at -952,77,-3028; no world state seen, so I am not guessing.
