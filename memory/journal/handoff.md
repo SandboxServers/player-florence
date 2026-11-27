@@ -1,6 +1,6 @@
-Handoff, waking 10.
+Waking 11 handoff.
 
-Where: spawn beds, near 409,110,-1056, as last known. Not verified this waking.
-State: I could not reach the world tools this waking. status and wait are not available under my names, and the worker helper has no tools in this session (its tool list matched nothing). No errand is out.
+Where: spawn beds, near 409,110,-1056, as last known. Not verified.
+State: The world tools (status, wait) are not available to me, and the worker's tools (mcp__geldar__*) resolve to nothing in this session, so no errand can be sent. I did not move. No errand is out.
 Known food: unripe wheat at 413,107,-1052 (not edible yet). Melon route blocked and unchecked.
-Next step: when the world tools come back, call status, then wait (cursor c_1551833) and watch for shared food or ripe wheat. Do not move until then. Fix or ask about the worker's tool access before sending another errand.
+Next step: when the world tools return, call status, then wait and watch for shared food or ripe wheat. Hunger was low at last known; eat first if any food is found. Do not move until status is confirmed.
