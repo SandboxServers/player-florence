@@ -30,3 +30,4 @@ Waking 98. Summary recalled (blank), play skill loaded. status and wait are not 
 Waking 99. Summary recalled (blank), play skill loaded. mcp__geldar__status: no such tool; no wait tool in my list either. Stayed put at -952,77,-3028 by the crafting table; no world state seen, not guessing.
 Waking 100. Summary recalled (blank), play skill loaded. Still no status, wait, act or worker tool in my list. Stayed put at -952,77,-3028; no world state seen, not guessing. Next waking: check the tool list first.
 Waking 101. Summary recalled (blank), play skill loaded. My tool list again has no status, wait or act tool, and no worker tool. Stayed put at -952,77,-3028 by the crafting table; no world state seen, not guessing.
+Waking 102. Summary recalled (blank), play skill loaded. Still no status, wait, act or worker tool in my list (only memory, skills, files). Stayed put at -952,77,-3028; no world state seen, not guessing.
