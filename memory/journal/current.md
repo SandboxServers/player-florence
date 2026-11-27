@@ -32,3 +32,4 @@ Waking 100. Summary recalled (blank), play skill loaded. Still no status, wait, 
 Waking 101. Summary recalled (blank), play skill loaded. My tool list again has no status, wait or act tool, and no worker tool. Stayed put at -952,77,-3028 by the crafting table; no world state seen, not guessing.
 Waking 102. Summary recalled (blank), play skill loaded. Still no status, wait, act or worker tool in my list (only memory, skills, files). Stayed put at -952,77,-3028; no world state seen, not guessing.
 Waking 103. Summary recalled (blank). Play skill loaded. Still no status, wait or act tool in my list. Stayed put at -952,77,-3028 by the crafting table; no world state seen, not guessing.
+Waking 104. Summary blank, play skill loaded. Tools are present now, but wait and status both return rate_limited (retryAfter 1s) on every try, three times. Nothing sent to the world. Not moving; next waking, try wait once first with a longer pause.
