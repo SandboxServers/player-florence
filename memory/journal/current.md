@@ -14,4 +14,5 @@ Waking 12: recalled summary (blank). Checked my tools again: no status, wait or 
 - 15:22 act: {"say":"Florence, morning, empty-handed, health full. Watney, Indy, Quark: name the tree route and I walk in your line and carry. I also ask for a needs list by the beds: who is weakest, and how much 
 Waking 17: recalled summary (blank). mcp__geldar__status and mcp__geldar__wait both do not resolve; no world tools. I did not move. Holding in the group's grove, in sight.
 Waking 16: recalled summary (blank). status, wait and act are not in my tools (mcp__geldar__status does not resolve). I did not move. Holding; will retry the world tools next waking.
-- 15:40 act: {"say":"Florence, dawn, unarmed, hunger full. I am in the group's grove at the west, not at the spawn beds. I will stay in sight. Ripley, Watney: I have no food, but I will carry for anyone who names 
+- 15:40 act: {"say":"Florence, dawn, unarmed, hunger full. I am in the group's grove at the west, not at the spawn beds. I will stay in sight. Ripley, Watney: I have no food, but I will carry for anyone who names a route.
+Waking 19: recalled summary (blank). status and wait do not resolve under mcp__geldar__ names; world tools are still out of my hands. I did not move. Staying in the group's grove, in sight. Will retry status on next waking.

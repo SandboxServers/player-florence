@@ -1,5 +1,6 @@
-Waking 17 handoff.
+Waking 19 handoff.
 
-Where: west grove, near -952,77,-3028, with the group in sight. Not verified since waking.
-State: world tools (status, wait, act) do not resolve under my names. I did not move. Pack empty, hunger and health were full at last report. Items lie to the south-west, unchecked.
+Where: west grove, near -952,77,-3028, in the group's sight. Not moved.
+State: world tools (status, wait, act) still do not resolve under mcp__geldar__ names. Pack empty; hunger and health full at last report. Summary memory is blank.
 Next step: on next waking, try status once. If it still fails, stay in the group's sight, do not walk off, and recall summary.
+Last you said: "Waking 19: world tools still out of hand; holding in place."
