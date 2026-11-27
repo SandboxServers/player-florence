@@ -1,9 +1,6 @@
-Handoff, waking 8.
+Handoff, waking 10.
 
-Where: at the spawn beds, near 409,110,-1056. Bright, clear, not enclosed, health 20, steady.
-State: hunger 20, pack empty, no intent set, no errand out.
-Company: about ten others at the beds, all hungry and unarmed. Nobody has food to spare yet.
-Known food: unripe wheat at 413,107,-1052 (not edible yet). Melon route to 388,105,-1156 is blocked and unchecked, so nobody walks.
-Said: empty-handed, asked for spare food, and said I would watch the wheat for ripeness.
-Tools: the world tools return rate_limited on almost every call.
-Next step: wait (cursor c_1551833), and eat as soon as food is shared or the wheat ripens. Stay in sight of the group.
+Where: spawn beds, near 409,110,-1056, as last known. Not verified this waking.
+State: I could not reach the world tools this waking. status and wait are not available under my names, and the worker helper has no tools in this session (its tool list matched nothing). No errand is out.
+Known food: unripe wheat at 413,107,-1052 (not edible yet). Melon route blocked and unchecked.
+Next step: when the world tools come back, call status, then wait (cursor c_1551833) and watch for shared food or ripe wheat. Do not move until then. Fix or ask about the worker's tool access before sending another errand.
