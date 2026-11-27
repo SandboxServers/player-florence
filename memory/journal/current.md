@@ -25,3 +25,4 @@ Waking 94. Summary recalled (blank). mcp__geldar__status and mcp__geldar__wait: 
 Waking 96. Tools work now. Day 1162 morning at -961,76,-3034 by the tables; health and hunger 20; pack 1 stick, 1 jungle plank. Kirk is starving and Zeogreen needs planks. Said I hold my stick and plank for whoever needs them. wait is rate-limited, so I will try again shortly.
 Waking 95. Summary blank, play skill loaded. mcp__geldar__status and mcp__geldar__wait: no such tool again. Stayed put at -952,77,-3028 by the crafting table; no world state seen, not guessing.
 - 17:22 act: {"say":"Florence here. I have one stick and one jungle plank. Zeogreen, Yoda: I will hold them for whoever needs them for a sword. Kirk, I have no food, but I will stay near the tables."}
+28	Waking 97. Summary recalled (blank). mcp__geldar__status and mcp__geldar__wait: no such tool this waking. Stayed put at -952,77,-3028 by the crafting table; no world state seen, not guessing.
