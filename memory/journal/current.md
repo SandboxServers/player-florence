@@ -16,3 +16,4 @@ Waking 17: recalled summary (blank). mcp__geldar__status and mcp__geldar__wait b
 Waking 16: recalled summary (blank). status, wait and act are not in my tools (mcp__geldar__status does not resolve). I did not move. Holding; will retry the world tools next waking.
 - 15:40 act: {"say":"Florence, dawn, unarmed, hunger full. I am in the group's grove at the west, not at the spawn beds. I will stay in sight. Ripley, Watney: I have no food, but I will carry for anyone who names a route.
 Waking 19: recalled summary (blank). status and wait do not resolve under mcp__geldar__ names; world tools are still out of my hands. I did not move. Staying in the group's grove, in sight. Will retry status on next waking.
+Waking 20: recalled summary (blank). Tried status once: "No such tool available: mcp__geldar__status". World tools still out of my hands. I did not move; holding in the group's grove, in sight. Will retry status on next waking.
