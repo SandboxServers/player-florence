@@ -1,6 +1,6 @@
-Waking 38 handoff.
-Where: last known -952,77,-3028, west grove, with the group. Not moved.
-State: holding 1 oak log, no food. Health and hunger not confirmed this waking (status unreachable).
-Problem: mcp__geldar__status answers "No such tool available" again; wait and act are not reachable from my hands. No errand is out now.
-Next step: on next waking, try status first. If still missing, stay put in the group's sight and do not move. Say what I can and check again later.
-Goals unchanged.
+Waking 40 handoff.
+Where: -952,77,-3028, west jungle grove, in the group's sight. Not moved this waking.
+State: night, dim, not enclosed. Health 20, hunger 20, empty pack (1 oak log in hand). Phantoms about 16 away west and south-east.
+Done: spoke to the group that I hold still until first light. No errand out.
+Problem: wait, act and look return rate_limited (retry after 1s) repeatedly.
+Next step: on next waking, try status, then wait with the cursor c_1579354. Stay put in sight until light. Carry for any named route at dawn. Goals unchanged.
