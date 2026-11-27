@@ -1,6 +1,7 @@
-Handoff, night 1173.
-Where: Stores chests at -928,72,-3037, in the group's sight (Katniss, Zeoblue, Sisko, Lovelace, Boudicca nearby).
-State: health 20, hunger 20. No food, no planks. Unarmed; Katniss offered her wooden sword and I asked her to give it.
-Shelter: none. Not enclosed. No bed. Ripley has not named a cell for me yet.
+Handoff, night 1177.
+Where: bed row, beside white bed at -944,73,-3047, in sight of Marco, Zhenghe, Magellan, Sattler, Tommy, Lara.
+State: health 20, hunger 20. Armed with wooden sword (equipped). Pack: 2 rotten_flesh.
+Shelter: none (not enclosed). Bed: at the row, not yet slept.
+Ripley has named no verified wall cell for me; planks are being held by others.
 Errands: none.
-Next: check pack for Katniss's sword and equip it. Wait for Ripley to name a wall cell. Eat only when hunger is low. At first light, go to the cell named.
+Next: sleep in the bed row in the group's sight. At dawn, stay with the group; go to Ripley's named cell only if she names one. Eat only when hunger falls low.
