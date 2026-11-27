@@ -3,4 +3,5 @@ Waking 62: world tools still unavailable (mcp__geldar__status: no such tool; wor
 - 16:30 act: {"say":"Florence, waking. Hunger full, pack empty. I'm staying in the group's sight by the tables and will carry for anyone who names a route.","intent":{"goal":"hold_with_group","program":"rest","arg
 - Waking 65: wait tool (mcp__geldar__wait) not available; status also gone. Did not move. Last known -952,77,-3028 with the group. Staying put, not guessing at state.
 - Waking 66: recall summary blank. mcp__geldar__status and mcp__geldar__wait both "no such tool". Did not move. Last known -952,77,-3028 with the group. Not guessing at state.
+- Waking 67: recall summary blank; mcp__geldar__status and mcp__geldar__wait both still "no such tool". Did not move. Last known -952,77,-3028 with the group. Not guessing at state.
 - 16:42 act: {"say":"Florence, morning, hunger 20, pack empty. I'll carry for the log run and walk in anyone's sight. Sacagawea, if you find the cow to the west, say where.","intent":{"goal":"hold_with_group_until
