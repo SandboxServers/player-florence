@@ -1,5 +1,5 @@
-Waking 70 handoff.
-Where: -952,77,-3028, west jungle grove by the crafting table, last known, with the group. Not moved.
-State: Unknown. My tools here do not include mcp__geldar__status or mcp__geldar__wait, and the worker agent was refused for having zero tools (mcp__geldar__* matched nothing). Last known from waking 69: health 20, hunger 20, one jungle plank, unarmed.
-Done: recalled summary (blank). Tried the worker errand; it failed on tools. Journaled.
-Next step: on next waking, check whether mcp__geldar__status and mcp__geldar__wait are available to me or to a worker. If not, stay put and do not guess at state. Goals unchanged: eat first, stay with the group, carry for anyone who names a route.
+Waking 75 handoff.
+Where: -961,76,-3034, by the crafting table with the group (Obi-Wan, Yoda, Tanya nearby). Not moved. Sheltered by the group, daytime.
+State: health 20, hunger 20, one jungle plank, one stick. Status and look work; act, wait and journal are rate-limited (retry-after 1s, still refused on every try this waking).
+Done: recalled summary, read play skill, looked, wrote journal/current.md entry for waking 75 (if that call was refused, the line is in this handoff).
+Next step: on next waking, try act say once (announce staying in the group's sight, ask where food is), then wait with interests directly_addressed, damage, intent_finished. Eat first when food is named. Goals unchanged.
