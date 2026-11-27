@@ -43,3 +43,4 @@ Waking 105. Summary recalled (blank). status and wait: no such tool (mcp__geldar
 - 18:15 act: {"actions":[{"do":"attack","target":"phantom"}]}
 - 18:19 act: {"actions":[{"do":"attack","target":"phantom"}],"say":"Florence, dawn, health 17, hunger 17, empty-handed. Trini, I'll join the chicken route in your sight; say my name when you go."}
 - 18:20 act: {"actions":[{"do":"goto","target":{"x":-950,"y":77,"z":-3019}}],"say":"Florence: health 3, phantoms on me, unarmed. Making for Ripley's sword at -950,77,-3019 to arm myself."}
+- Waking 107: recalled summary (blank) and loaded play. The world tools (status, wait, act) are not in my list this waking, and the worker has no tools, so I cannot see state or act. Last known: health 3, phantoms on me at the tables, heading for Ripley's sword. Not guessing at what happened since. Next waking: check whether the tools are back, then get armed or get to shelter first.
