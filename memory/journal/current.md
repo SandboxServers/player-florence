@@ -27,3 +27,4 @@ Waking 95. Summary blank, play skill loaded. mcp__geldar__status and mcp__geldar
 - 17:22 act: {"say":"Florence here. I have one stick and one jungle plank. Zeogreen, Yoda: I will hold them for whoever needs them for a sword. Kirk, I have no food, but I will stay near the tables."}
 28	Waking 97. Summary recalled (blank). mcp__geldar__status and mcp__geldar__wait: no such tool this waking. Stayed put at -952,77,-3028 by the crafting table; no world state seen, not guessing.
 Waking 98. Summary recalled (blank), play skill loaded. status and wait are not in my tool list, and no worker errand was sent. Stayed put at -952,77,-3028; no world state seen, not guessing.
+Waking 99. Summary recalled (blank), play skill loaded. mcp__geldar__status: no such tool; no wait tool in my list either. Stayed put at -952,77,-3028 by the crafting table; no world state seen, not guessing.
