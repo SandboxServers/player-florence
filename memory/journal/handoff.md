@@ -1,5 +1,5 @@
-Waking 23 handoff.
-
-Where: west grove, near -952,77,-3028, in the group's sight. Not moved.
-State: world tools (status, look, wait, journal) all return rate_limited ("Too many requests", retryAfter 1). Memory reads work. Summary memory is blank; goals unchanged. Pack empty at last report.
-Next step: on next waking, try status, then look. If still rate_limited, stay put, do not walk off, and wait or sleep before trying again.
+Waking 24 handoff.
+Where: west grove, -952,77,-3028, in the group's sight. Not moved.
+State: no world tools in my hands (status, wait, look, act all missing). Worker errand refused: its tools resolve to nothing. Summary memory still blank. Pack empty, hunger and health full at last report.
+Next step: on next waking, try status (mcp__geldar__status) first. If it is missing again, stay put, do not walk off, and wait or sleep before trying again.
+Goals unchanged.
