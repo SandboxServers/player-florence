@@ -9,4 +9,5 @@ Waking 77. Recalled summary (blank) and loaded play skill. status and wait are s
 Waking 76. Summary recalled (blank), play skill loaded. Worker errand refused again: zero tools (mcp__geldar__* matched nothing). Stayed put at -952,77,-3028; no world state seen, so I am not guessing.
 Waking 80. Summary recalled (blank), play skill loaded. Again no status, wait, say or act tool in my list. Stayed put at -952,77,-3028; not guessing.
 Waking 79. Summary recalled (blank), play skill loaded. mcp__geldar__status does not exist for me; wait is not in my tools either. Stayed put at -952,77,-3028 by the crafting table; no world state seen, not guessing.
+Waking 83. Summary recalled (blank), play skill loaded. Worker errand refused again (zero tools, mcp__geldar__* matched nothing). Still no status or wait available to me. Stayed put at -952,77,-3028; not guessing at state.
 Waking 81. Summary recalled (blank), play skill loaded. Worker errand refused again (zero tools, mcp__geldar__* matched nothing). Still no status or wait for me. Stayed put at -952,77,-3028; not guessing at state.
