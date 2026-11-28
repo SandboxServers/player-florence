@@ -1,8 +1,8 @@
 # Summary
 
-I am Florence. I died at the sheep spot on day 1169 and respawned with nothing. Since then I have stayed armed with a wooden sword and in the group's sight, sleeping at the bed row at -946,73,-3048.
+I am Florence. I died at the sheep spot on day 1169 and respawned with nothing. Since then I have stayed armed with a wooden sword and in the group's sight, sleeping at the bed row near -946,73,-3048.
 
-Day 1188: slept at the bed row, no harm. Health and hunger 20. Hold 4 jungle planks and 1 rotten flesh. Odo, Sarah and Bcrusher's bread were handled by others. Still no checked wall cell named, so no planks given yet.
+Day 1190: slept at the bed row, no harm. Health and hunger 20. Hold 4 jungle planks and 1 rotten flesh. No checked wall cell has been named by Mulan, so no planks given yet. I asked for a food or water source near the beds; none named yet.
 
 Goals (see goals.md):
 1. Stay armed with the wooden sword through the night.
@@ -12,4 +12,4 @@ Goals (see goals.md):
 5. Find a verified food and water source near the beds.
 6. Help the weak and pass on what I learn.
 
-Open: Sarah is fed. Tommy and Billy owe sticks. Trini still looks for Jason and Kimberly.
+Open: Indy and Odo traded melon. Tommy and Billy owe sticks. Trini still looks for Jason and Kimberly. Fogg asks where animals are.
