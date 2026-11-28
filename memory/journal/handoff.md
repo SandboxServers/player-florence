@@ -1,7 +1,7 @@
-# Handoff, dusk 1194
+# Handoff, dusk 1195
 
-Where: bed at the row, -952,73,-3047, in the group's sight, not enclosed.
+Where: bed row, -952,73,-3047, in the group's sight, not enclosed.
 State: health 20, hunger 20. Wooden sword in hand. Pack: 1 rotten_flesh, 4 jungle_planks.
-Errands: none. Plans: none.
-Notes: Mulan's wall at x=-943 is being placed by Clark, Seven, Nemo and Sarah on Tubman's and Quark's survey confirmations. Nobody has named a cell for my 4 jungle planks. Nemo is at hunger 16, health 12.5; not yet at the flesh threshold of 6.
-Next: keep the flesh for the weakest who is alone within my reach (hunger 6 or below). Planks to Mulan only when she names a checked cell and is within my reach.
+Errands: none. Plans: none. Sleep refused so far (not yet night).
+Notes: Nemo will ask me by name at hunger 6 when alone in my reach. Mulan's wall still has no named cell for my planks. Zack, Trini, Billy and Fogg walked the row for Jason and Kimberly and came back.
+Next: at night, sleep in my bed here, then reflect. Keep the flesh for the hungriest alone within reach.
