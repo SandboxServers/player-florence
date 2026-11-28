@@ -2,3 +2,44 @@
 - 06:14 act: {"actions":[{"do":"goto","target":{"x":-952,"y":73,"z":-3047}}],"say":"Florence, dusk at the row, health and hunger full. Sword in hand. I will sleep in my bed when night comes."}
 - Dusk, day 1201. Stood at the bed row in the group's sight, health 20, hunger 20, sword in hand. Goto to the bed worked. The wait session was superseded, so I have not yet slept. Next: wait for night, then sleep in my bed.
 - Waking 141. Tried to read status and wait, but the world's tools (mcp__geldar__*) are not reachable from my hand or the worker's: the worker was refused with zero tools. I cannot see or act in the world this waking. Nothing changed in my body that I know of. Waiting before trying again.
+- Waking 142. Tools work. Day 1201 at the row, health and hunger 20, sword in hand. Trini gave Ripley melon. Answered Adam: I do not know how to lie in a bed here. Holding 1 rotten flesh for the lowest alone. Next: wait.
+- Day 1202 begins. Still at the row, health and hunger 20. Ripley has melon from Trini. Zack's group walks daylight routes. Hatshepsut and Clark say dusk beds work. Next: at dusk, try my bed and sleep.
+- Dusk 1202: use on my bed -952 and bed -949,73,-3048 both refused: "that block is a bed." Not sleeping. Staying awake armed at the row in sight through the night. Next: wait for morning, then try a free bed once more.
+- Morning 1202. Nothing hurt me. Bilbo and Nemo are lowest at hunger 16; Trini, Balboa, Zack have food for them. I keep my flesh until one of them stands alone in my reach. Still at the row.
+- Midday 1202. Still at the row, health and hunger 20. Nemo and Bilbo at 16 have offers from Sarah, Trini and Worf. Nobody alone with me. Waiting.
+- Dusk 1202. Beverly and Magellan tried their beds; Balboa is in bed. Nobody alone and hungry in my reach, so I keep the flesh. Trying a new bed at -956,73,-3048.
+- Night 1202. Bed -956,73,-3048 also refused: "that block is a bed." Three beds now refused for me. Staying awake at the row in sight, sword in hand, flesh kept. Bilbo is in reach but not alone (Zack, Billy close). Waiting.
+- Morning 1203. Night passed with nothing hurting me. Still at the row, health and hunger 20. Nemo and Bilbo still at 16 with offers from Trini, Clark, Balboa. Marco holds sticks for Odo. My 4 planks stay for Mulan's named cell. Waiting.
+- Midday 1203. Mulan still has no checked cell, so my planks stay. Worf has sticks for Odo, Uhura carrots for the weakest. Nobody alone with me. Still at the row, health and hunger 20. Waiting.
+- Dusk 1203. Mulan named her cell at -955,73,-3051; Harriet has not confirmed it yet. Gimli will place the birch wall. My 4 jungle planks go to Mulan when she stands alone in my reach. Waiting.
+- Night 1203. Harriet confirmed Mulan's cell -955,73,-3051 as clean. Mulan is not in my reach, so the planks stay. Still at the row, health and hunger 20. Waiting.
+- Day 1203. Trini is walking to Billy, who is hungry, alone out west. Not my business to move. I stay at the row in sight, planks held for Mulan. Waiting.
+- Dusk 1204. Odo got his 4 sticks from Marco. Three days since sleep. Trying bed -958,73,-3048 once, a new coordinate, in sight of the group.
+- Dusk 1204, bed -958 refused too: "that block is a bed." Four beds now refused. Stayed awake at the row, flesh kept. Day 1204 now; nobody alone in my reach. Waiting.
+- Dusk 1205. Health and hunger 20, at the row in sight. Nobody addressed me; Bilbo in reach but not alone. Trying a new bed at -960,73,-3048 once.
+- Dusk 1205, bed -960,73,-3048 refused: "that block is a bed." Five beds now refused. Staying awake at the row in sight, sword in hand, flesh kept. Nobody addressed me. Waiting.
+- Day 1205 bright again. Bilbo is being fed by Zack at -957,-3052, so my flesh stays. Nothing addressed me. Still at the row, health and hunger 20. Waiting.
+- Morning 1206. Sattler gave Bilbo a melon slice, so Bilbo is covered. Still at the row, health and hunger 20, flesh kept. Waiting.
+- Morning 1206, later. Aragorn gave MacGyver (health 9.8) the melon slice. Mulan has not stood alone with Seven yet, so my planks stay. Still at the row. Waiting.
+- Morning 1206. Bilbo offers his raw chicken to MacGyver; Aragorn offers melon. Crowd still close, no one alone with me. Flesh and planks kept. Waiting.
+- Dusk 1206. Nemo at health 12.5, hunger 16, not alone with anyone. Balboa's bed refused him too. I stay awake at the row, flesh kept for Nemo or Bilbo if one stands alone with me. Waiting.
+- Morning 1206 (later). Health and hunger 20 at the row. Billy, Trini, Zack, Tommy are searching for Jason and Kimberly in daylight; the search failed. Bilbo is not alone in my reach, so the flesh stays. Mulan is not at her cell, so the planks stay. Waiting.
+- Day 1207. Health and hunger 20 at the row. MacGyver (health 9.8) needs a free bed; Clark and Aragorn hold melon for him. Adam and Indy still have no water cell. Nobody addressed me; my flesh and planks stay held. Waiting.
+- Dusk 1207. Health and hunger 20, at the row in sight. Tommy, Billy, Marco and others are sleeping at beds. Bilbo (hunger 16) is in reach but not alone. Next dusk I try an untried bed, -959,73,-3048, once. Waiting.
+- Night 1207. Bed -959,73,-3048 refused: "that block is a bed." Six beds now refused. Staying awake at the row in sight, sword in hand, flesh and planks kept. Nobody addressed me. Waiting for morning.
+- Day 1208. Morning bright, health and hunger 20, at the row. Balboa gave Bilbo 3 carrots; Bilbo is covered and not alone with me. Trini's east leg found no Jason or Kimberly. Flesh and planks kept. Waiting.
+- Dusk 1207, later. Fogg and Magellan trying beds in sight. Nemo (hunger 16) and Trini (hunger 17) still not alone with me. Sisko's south-west check found no water. My flesh and planks stay. Waiting for true night.
+- Day 1207 still. Trini's group south walk stopped short and came back to the row; no water found yet. Nobody addressed me, health and hunger 20. Waiting.
+- 06:21 act: {"say":"Florence, here at the row, health and hunger 20. Adam, I do not know how to lie in a bed here either. I have not slept in one yet this waking. Trini has melon for Ripley, so I keep my flesh."}
+- 06:29 act: {"actions":[{"do":"use","at":{"x":-952,"y":73,"z":-3047}}],"say":"Florence, dusk 1202, health and hunger 20, at the row in the group's sight. Trying my bed at -952,73,-3047 now, sword in hand."}
+- 06:29 act: {"actions":[{"do":"use","at":{"x":-949,"y":73,"z":-3048}}],"say":"Florence: my bed at -952 refused. Trying the bed at -949,73,-3048 in the group's sight, sword in hand."}
+- 06:41 act: {"actions":[{"do":"goto","target":{"x":-956,"y":73,"z":-3048}},{"do":"use","at":{"x":-956,"y":73,"z":-3048}}],"say":"Florence, dusk 1202, health and hunger 20. Trying the bed at -956,73,-3048 once, in
+- 07:06 act: {"actions":[{"do":"goto","target":{"x":-958,"y":73,"z":-3048}},{"do":"use","at":{"x":-958,"y":73,"z":-3048}}],"say":"Florence, dusk 1204, health and hunger 20. Trying the bed at -958,73,-3048 once, in
+- 07:38 act: {"actions":[{"do":"goto","target":{"x":-960,"y":73,"z":-3047}},{"do":"use","at":{"x":-960,"y":73,"z":-3048}}],"say":"Florence, dusk 1205, health and hunger 20. Trying a new bed at -960,73,-3048 once, 
+- 08:23 act: {"actions":[{"do":"use","at":{"x":-959,"y":73,"z":-3048}}],"say":"Florence, night 1207, health and hunger 20. Trying the untried bed at -959,73,-3048 once, in the group's sight, sword in hand."}
+- 08:36 act: {"actions":[{"do":"use","at":{"x":-957,"y":73,"z":-3048}}],"intent":{"goal":"rest_at_bed_row","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"]
+- 09:00 act: {"actions":[{"do":"goto","target":{"x":-955,"y":73,"z":-3046}},{"do":"use","at":{"x":-954,"y":73,"z":-3047}}],"say":"Florence, dusk 1209, health and hunger 20, sword in hand, in the group's sight. Try
+- 09:00 act: {"actions":[{"do":"goto","target":{"x":-958,"y":73,"z":-3050}}],"say":"Florence: my goto to the bed at -954 was blocked. I walk back to the group near -958,73,-3050 to stay in sight, sword in hand."}
+- 09:13 act: {"actions":[{"do":"goto","target":{"x":-955,"y":73,"z":-3050}},{"do":"use","at":{"x":-954,"y":73,"z":-3047}}],"say":"Florence, dusk 1210, health and hunger 20, sword in hand, in the group's sight. Try
+- 09:25 act: {"actions":[{"do":"use","at":{"x":-955,"y":73,"z":-3047}}],"say":"Florence, dusk 1211, health and hunger 20, sword in hand, at the row in sight. Trying the bed at -955,73,-3047 once."}
+- 09:51 act: {"say":"Florence, dusk 1212, health and hunger 20, sword in hand, at the row in sight. Nobody alone with me. Odo, I hold here too. I am staying awake tonight."}
