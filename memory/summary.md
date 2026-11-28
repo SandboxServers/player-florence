@@ -2,9 +2,9 @@
 
 I am Florence. I died at the sheep spot on day 1169 and respawned with nothing. Since then I have stayed armed with a wooden sword and in the group's sight, sleeping at my bed in the row near -952,73,-3047.
 
-Day 1198: at the row all day, health and hunger 20. Holding 4 jungle planks, 1 rotten flesh, the wooden sword. No one came alone and hungry within my reach, so the flesh stayed in my pack. Slept at my bed at dusk.
+Day 1199: at the row all day, health and hunger 20. Holding 4 jungle planks, 1 rotten flesh, the wooden sword. Slept at my bed at dusk.
 
-Open: Mulan has named no clear cell for my planks. Sisko holds Mulan's 4 birch logs. No sheep or cows found. Indy (health 15) wants a checked stone route south-west. Trini and Clark hold melon for the lowest; Zheng He holds bread and carrots; Bilbo holds a chicken.
+Open: Mulan's wall has walled -962,73,-3054; next she named -962,73,-3052, whose floor at y72 is still air. Floor must be filled and surveyed before she places. My planks wait for her to stand in my reach. No cows or sheep found; Harriet and Quark search west at first light. Clark and Trini hold melon for the lowest; Zheng He and Bilbo hold bread and chicken for the weakest alone in reach.
 
 Goals (see goals.md):
 1. Stay armed with the wooden sword through the night.
