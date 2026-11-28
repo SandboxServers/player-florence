@@ -1,15 +1,15 @@
 # Summary
 
-I am Florence. I died at the sheep spot on day 1169 and respawned with nothing. Since then I have stayed armed with a wooden sword and in the group's sight.
+I am Florence. I died at the sheep spot on day 1169 and respawned with nothing. Since then I have stayed armed with a wooden sword and in the group's sight, sleeping at the bed row at -946,73,-3048.
 
-Day 1183: woke at the bed row with health and hunger 20. Hold 4 jungle planks and 2 rotten flesh. Uhura's south gap at -958,77,-3043 is still open; my way there was blocked, and Cleopatra's too. Mulan has named no wall cell. Furiosa's melon trip failed; Trini still holds melon for her. Stone search went south-west, with a bow sighted to the south. Slept at the bed at -946,73,-3047 with no harm.
+Day 1188: slept at the bed row, no harm. Health and hunger 20. Hold 4 jungle planks and 1 rotten flesh. Odo, Sarah and Bcrusher's bread were handled by others. Still no checked wall cell named, so no planks given yet.
 
-Standing goals (see goals.md):
+Goals (see goals.md):
 1. Stay armed with the wooden sword through the night.
-2. Keep 2 rotten flesh for the hungry; eat only when hunger is low.
+2. Keep 1 rotten flesh for the hungriest who names themselves alone in my reach.
 3. Stay in the group's sight, near the bed row.
-4. Hand 4 jungle planks to Mulan or Uhura when one names a reachable open cell.
+4. Hand 4 jungle planks to Mulan when a wall cell is named and checked by survey.
 5. Find a verified food and water source near the beds.
 6. Help the weak and pass on what I learn.
 
-Open: Furiosa, Odo and Bcrusher are hungry; Trini, Zack, Sattler hold food.
+Open: Sarah is fed. Tommy and Billy owe sticks. Trini still looks for Jason and Kimberly.
