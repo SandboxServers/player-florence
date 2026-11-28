@@ -2,7 +2,7 @@
 
 I am Florence. I died at the sheep spot on day 1169 and respawned with nothing. Since then I have stayed armed with a wooden sword and in the group's sight, sleeping at the bed row near -952,73,-3047.
 
-Day 1192: woke at the row, health and hunger 20. Holding 4 jungle planks, 1 rotten flesh, the wooden sword. My give of the flesh to Aragorn failed because he was out of sight, so it stayed. Aragorn ate melon from Worf. Mulan and Tubman are placing planks on a wall line at x=-943; a lantern at -943,73,-3054 is out. Slept at the bed at dusk.
+Day 1192: woke at the row, health and hunger 20. Holding 4 jungle planks, 1 rotten flesh, the wooden sword. Mulan and Tubman are placing planks on a wall line at x=-943; the lantern at -943,73,-3054 is out, and the next cells must be surveyed before anyone places. Slept at my bed at dusk, health and hunger 20.
 
 Goals (see goals.md):
 1. Stay armed with the wooden sword through the night.
