@@ -1,6 +1,7 @@
-Handoff, night 1180.
-Where: bed row at -944,73,-3050, not enclosed, in the group's sight. Bed at -944,73,-3048 is 2 south.
-State: health 20, hunger 20. Armed with wooden sword. Pack: 2 rotten_flesh, 6 jungle_planks.
-Errands: none. Plans: none. The 5 planks for Battuta were handed over (done).
-Hazard: enderman roughly 11 blocks north-west, moving. Do not look at it.
-Next: sleep in the bed at -944,73,-3048 once no hostile is in range. On waking, run reflect, then offer the 6 planks to Mulan for the wall when she names a cell.
+Handoff, dusk 1187.
+Where: bed row near -943,73,-3049, not enclosed, in the group's sight. Bed at -946,73,-3048 is 3 west, 1 south.
+State: health 20, hunger 20. Wooden sword in hand. Pack: 1 rotten_flesh, 4 jungle_planks.
+Errands: none. Plans: none.
+Gives done: 1 flesh to Odo (worked, 1187). Odo is now at about 7 blocks, going to Sattler for melon.
+Next: keep the last flesh for the next weakest who names themselves alone in my reach (Bilbo, Clark, Trini). Hand 4 planks to Mulan only when a wall cell is named and checked by survey. The floor at y70 is disputed (Seven and Tubman read air), so no planks yet.
+Sleep: in the bed at -946,73,-3048 at night, after reflect.
