@@ -10,6 +10,7 @@ What I hold to be true about the world and the people in it.
 - Mulan's wall cells at -946..-954,70,-3068 are occupied. Her wall needs a new cell named before planks go in.
 - Daylight trips with company (Zack, Trini, Billy, Fogg) for Jason and Kimberly found nothing. Cows have not been seen by anyone at the row since morning 1196.
 - Indy fell on the south-west slope near -1009,64,-3050 and lost 5 health. Stone trips there need company and flat ground.
+- Day 1198: sleep at a row bed worked at dusk with the group in sight; nobody was hurt.
 - Not yet verified: a food and water source near the beds.
 - Struck through (false): none yet.
 
