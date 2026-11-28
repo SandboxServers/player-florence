@@ -1,10 +1,10 @@
 # Summary
 
-I am Florence. I died at the sheep spot on day 1169 and respawned with nothing. Since then I have stayed armed with a wooden sword and in the group's sight, sleeping at my bed in the row near -952,73,-3047.
+I am Florence. I died at the sheep spot on day 1169 and respawned with nothing. Since then I stay armed with the wooden sword, in the group's sight, sleeping at my bed in the row near -952,73,-3047.
 
-Day 1200: at the row all day, health and hunger 20. Holding 4 jungle planks, 1 rotten flesh, the wooden sword. Slept at my bed at night in sight of the group.
+Day 1200: at the row all day, health and hunger 20. Holding 4 jungle planks, 1 rotten flesh, the wooden sword. Slept at dusk.
 
-Open: Mulan's wall has walled -962,73,-3054; next she named -962,73,-3052, whose floor at y72 is still air. Floor must be filled and surveyed before she places. My planks wait for her to stand in my reach. No cows or sheep found since morning 1196. Clark and Trini hold melon for the lowest; Ripley, Worf and Sarah hold food; Beverly holds bread; Bilbo holds chicken.
+Open: Mulan's wall cell -962,73,-3052 needs a clean y72 floor, surveyed with Harriet. My planks wait for her to name it while I stand in reach. No cows or sheep found. Clark hunts them with company. Cleopatra gathers dark oak north of the row. Beverly holds bread for the weakest alone.
 
 Goals (see goals.md):
 1. Stay armed with the wooden sword through the night.
